@@ -40,8 +40,9 @@ AIがプロジェクトのコンテキストを理解した上で、質問に回
 ![](https://storage.googleapis.com/zenn-user-upload/b9e49cb71d08-20250526.png)
 
 ## インライン編集
-### ターミナルコマンドK
+### インライン編集（Cmd/Ctrl+K）
 Cmd/Ctrl+KでコードのインラインでチャットのTextFieldが出現して、コードを修正できる。
+![](https://mintlify.s3.us-west-1.amazonaws.com/cursor/images/cmdk/regular.png)
 
 ## ターミナルコマンドK
 ターミナルで使用できるコマンド生成に特化したチャット。
