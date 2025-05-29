@@ -79,7 +79,14 @@ PR作成までやってくれるとは**記載されていない。**
 > バックグラウンド エージェントを使用するには、プライバシー モードをオフにする必要があります。
 
 (2025/05/26)
-現状、私の環境ではNotepads機能は使えないみたい。
+現状、私の環境ではBackground Agents機能は使えないみたい。
+
+追記
+(2025/05/29)
+![](https://storage.googleapis.com/zenn-user-upload/7d3799a43325-20250529.png)
+
+改めて見てみたら、設定のBeta項目からNotepadsもBackground Agentsも有効にすることで、使えるようになっていた。
+Background Agentsを使いたい場合は、プライバシーモードをOFFにしないといけない。
 
 # Context
 ## Codebase Indexing
